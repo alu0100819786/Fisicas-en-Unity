@@ -13,6 +13,10 @@ Descripción de la Práctica:
 
 ----------------------------------
 
+
+Gif de su funcionamiento: https://gyazo.com/2f4ce1a5a9c55c31a014e888dd040faf
+https://gyazo.com/ce557c96f7ef64d6c3191dd4ca44f5ec
+https://gyazo.com/70be571d04b167d67ee81ca8c181c3dc
 Vamos a comentar como mediante los scripts podemos resolver el primer enunciado de la práctica:
 
         -Cada vez que el objeto jugador colisione con una esfera se debe incrementar un contador. Una de las escenas estará fija, la otra debe estar rodando aleatoriamente por la escena.
